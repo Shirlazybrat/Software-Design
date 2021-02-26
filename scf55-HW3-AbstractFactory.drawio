@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T03:29:48.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="pmw-51xA4MOJiYCGw55r" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T04:11:00.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="7bGpzID-80RRsLvn95oU" version="14.2.7" type="github">
   <diagram id="dcHdXGHzoKGkfsIKEd3O" name="Page-1">
     <mxGraphModel dx="1186" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="pTgLrrsHrEQl5brdsclu-24" value="+ Enter()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pTgLrrsHrEQl5brdsclu-21" vertex="1">
           <mxGeometry y="58" width="160" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="pTgLrrsHrEQl5brdsclu-25" value="MazeGame" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="pTgLrrsHrEQl5brdsclu-25" value="MazeFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="540" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pTgLrrsHrEQl5brdsclu-26" value="+ " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="pTgLrrsHrEQl5brdsclu-25" vertex="1">
